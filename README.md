@@ -37,4 +37,3 @@ While these solutions are based on my approach to the challenges, contributions,
 ---
 
 Happy querying!
-```
