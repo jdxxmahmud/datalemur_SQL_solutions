@@ -22,8 +22,9 @@ Each SQL file in the `solutions` directory corresponds to a specific challenge f
 
 ## Problems Overview
 
-- **User's Third Transaction**: [third transaction of every user]
-- **Top 5 Artists**: [top 5 artists whose songs appear most frequently in the Top 10]
+1. **User's Third Transaction**: [third transaction of every user]
+2. **Top 5 Artists**: [top 5 artists whose songs appear most frequently in the Top 10]
+3. **Supercloud Customer**: [company that purchases at least one product from each product category]
 
 ## Contributing
 
