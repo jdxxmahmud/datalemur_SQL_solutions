@@ -20,9 +20,10 @@ Each SQL file in the `solutions` directory corresponds to a specific challenge f
 2. Navigate to the `solutions` directory.
 3. Open the `.sql` files to view each solution.
 
-## Challenges Overview
+## Problems Overview
 
 - **User's Third Transaction**: [third transaction of every user]
+- **Top 5 Artists**: [top 5 artists whose songs appear most frequently in the Top 10]
 
 ## Contributing
 
