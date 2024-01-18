@@ -1,3 +1,5 @@
+## Problem Link: https://datalemur.com/questions/top-fans-rank
+
 WITH artist_ranking AS
 (
   SELECT 
